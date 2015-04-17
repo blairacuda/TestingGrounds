@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteTestingGrounds", "SQLiteTestingGrounds\SQLiteTestingGrounds.csproj", "{ADCCBC4F-BEBD-4F8D-BD7E-486287C85B10}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGrounds.Core", "TestingGrounds.Core\TestingGrounds.Core.csproj", "{AF282949-80F3-48EC-AC4A-4292015ABCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGrounds.Controls", "TestingGrounds.Controls\TestingGrounds.Controls.csproj", "{E53CC78E-6D64-4068-AC85-4118A1CA84FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGrounds", "TestingGrounds\TestingGrounds.csproj", "{42C7572F-CA91-4BF3-A07E-27924BA6FE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteTestingGrounds", "SQLiteTestingGrounds\SQLiteTestingGrounds.csproj", "{E1B97168-95B6-4B2D-94C4-D51A76F5B8E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADCCBC4F-BEBD-4F8D-BD7E-486287C85B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADCCBC4F-BEBD-4F8D-BD7E-486287C85B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADCCBC4F-BEBD-4F8D-BD7E-486287C85B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADCCBC4F-BEBD-4F8D-BD7E-486287C85B10}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53CC78E-6D64-4068-AC85-4118A1CA84FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53CC78E-6D64-4068-AC85-4118A1CA84FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53CC78E-6D64-4068-AC85-4118A1CA84FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53CC78E-6D64-4068-AC85-4118A1CA84FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C7572F-CA91-4BF3-A07E-27924BA6FE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C7572F-CA91-4BF3-A07E-27924BA6FE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C7572F-CA91-4BF3-A07E-27924BA6FE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C7572F-CA91-4BF3-A07E-27924BA6FE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B97168-95B6-4B2D-94C4-D51A76F5B8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B97168-95B6-4B2D-94C4-D51A76F5B8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B97168-95B6-4B2D-94C4-D51A76F5B8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B97168-95B6-4B2D-94C4-D51A76F5B8E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

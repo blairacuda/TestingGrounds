@@ -1,6 +1,6 @@
 ﻿using GalaSoft.MvvmLight;
 
-namespace SQLiteTestingGrounds.Core.ViewModel
+namespace TestingGrounds.Core.ViewModels
 {
     public class MainWindowViewModel :ViewModelBase
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SQLiteTestingGrounds.Properties
+namespace TestingGrounds.Controls.Properties
 {
     
     
