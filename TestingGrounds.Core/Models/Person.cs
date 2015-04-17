@@ -9,6 +9,7 @@ namespace TestingGrounds.Core.Models
         public string LastName { get; set; }
         public int Age { get; set; }
         public string PhoneNumber { get; set; }
+        public string Email { get; set; }
         public Address ShippingAddress { get; set; }
         public Address BillingAddress { get; set; }
         public IEnumerable<Book> Books { get; set; }

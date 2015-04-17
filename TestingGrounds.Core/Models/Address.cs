@@ -7,6 +7,5 @@
         public string StreetAddress1 { get; set; }
         public string StreetAddress2 { get; set; }
         public string ZipCode { get; set; }
-        
     }
 }
