@@ -5,9 +5,7 @@ VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteTestingGrounds", "SQLiteTestingGrounds\SQLiteTestingGrounds.csproj", "{ADCCBC4F-BEBD-4F8D-BD7E-486287C85B10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteTestingGrounds.Core", "SQLiteTestingGrounds.Core\SQLiteTestingGrounds.Core.csproj", "{AF282949-80F3-48EC-AC4A-4292015ABCD8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteTestingGrounds.Controls", "SQLiteTestingGrounds.Controls\SQLiteTestingGrounds.Controls.csproj", "{CA2264C0-611D-49C7-B42D-1FA30A38B2D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGrounds.Core", "TestingGrounds.Core\TestingGrounds.Core.csproj", "{AF282949-80F3-48EC-AC4A-4292015ABCD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF282949-80F3-48EC-AC4A-4292015ABCD8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA2264C0-611D-49C7-B42D-1FA30A38B2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA2264C0-611D-49C7-B42D-1FA30A38B2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA2264C0-611D-49C7-B42D-1FA30A38B2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA2264C0-611D-49C7-B42D-1FA30A38B2D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
