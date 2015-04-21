@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-             xmlns:syncfusion="clr-namespace:Syncfusion.Windows.PropertyGrid;assembly=Syncfusion.PropertyGrid.Wpf"
+             xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
              mc:Ignorable="d" d:DesignHeight="300" d:DesignWidth="300">
     <ScrollViewer>
             <syncfusion:PropertyGrid SearchBoxVisibility="Collapsed" EnableGrouping="True" ButtonPanelVisibility="Collapsed" SelectedObject="{Binding SelectedItem}" />

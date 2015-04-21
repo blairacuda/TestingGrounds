@@ -1,6 +1,6 @@
 ﻿using TestingGrounds.Core.Interfaces;
 
-namespace TestingGrounds.Core.Models
+namespace TestingGrounds.Models
 {
     public class Company : ModelBase
     {
@@ -8,6 +8,6 @@ namespace TestingGrounds.Core.Models
         public Type CompanyType { get; set; }
         public Address ShippingAddress { get; set; }
         public Address BillingAddress { get; set; }
-        public IPerson ContactPerson { get; set; }
+        public Person ContactPerson { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace TestingGrounds.Core.Models
+﻿namespace TestingGrounds.Models
 {
     public class Address : ModelBase
     {
